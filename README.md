@@ -10,6 +10,8 @@ The CPP06 module focuses on:
 - **Serialization**: Converting pointers to integers and back
 - **Runtime Type Identification**: Using dynamic_cast to identify object types
 
+---
+
 ### Exercise 00: Conversion of Scalar Types
 
 A `ScalarConverter` class that converts string representations to different scalar types.
@@ -19,6 +21,8 @@ A `ScalarConverter` class that converts string representations to different scal
 - Handles special cases (nan, inf, -inf)
 - Detects impossible conversions
 - Uses static methods (non-instantiable class)
+
+---
 
 ### Exercise 01: Serialization
 
@@ -30,6 +34,8 @@ A `Serializer` class that demonstrates pointer serialization/deserialization.
 - Uses reinterpret_cast for type conversion
 - Non-instantiable class with static methods
 
+---
+
 ### Exercise 02: Identify Real Type
 
 Type identification system using polymorphism and dynamic_cast.
@@ -40,6 +46,8 @@ Type identification system using polymorphism and dynamic_cast.
 - Random object generation
 - Type identification by pointer and reference
 - Uses dynamic_cast for safe downcasting
+
+---
 
 ## Key Concepts Demonstrated
 
@@ -58,6 +66,8 @@ Type identification system using polymorphism and dynamic_cast.
 ### 4. Non-instantiable Classes
 - Pure virtual destructors
 - Static-only interfaces
+
+---
 
 ## Learning Objectives
 
