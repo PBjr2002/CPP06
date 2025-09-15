@@ -1,4 +1,4 @@
-# CPP06 - C++ Casts
+# CPP06
 
 ## Project Overview
 
