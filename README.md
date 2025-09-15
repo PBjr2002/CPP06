@@ -4,7 +4,7 @@
 
 This project explores different types of C++ casts and type conversions. It consists of three exercises that demonstrate scalar type conversion, serialization, and type identification using dynamic casting.
 
-The CPP06 module focuses on:
+The project focuses on:
 - **C++ Casts**: Understanding and implementing different casting mechanisms
 - **Type Conversion**: Converting between scalar types (char, int, float, double)
 - **Serialization**: Converting pointers to integers and back
